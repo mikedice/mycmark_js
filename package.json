@@ -1,0 +1,14 @@
+{
+  "name": "mycmarkjs",
+  "version": "1.0.0",
+  "description": "experiments with cmark in JavaScript",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mike Dice",
+  "license": "ISC",
+  "dependencies": {
+    "commonmark": "^0.29.3"
+  }
+}
